@@ -1,5 +1,5 @@
 <?php
-
+//Interface
 interface height{
     public function getHeight();
 }
